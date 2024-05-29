@@ -1,0 +1,19 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>1773f538-6a49-466c-9f9a-97cea2c1e118</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders>
+    <Folder>Sonstiges</Folder>
+  </Folders>
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Global.ps1</File>
+    <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>
+    <File Build="2">Sonstiges\Design.cs</File>
+    <File Build="0" ReferenceFunction="Show-PasswordExpire_psf">PasswordExpire.psf</File>
+    <File Build="0" ReferenceFunction="Show-PasswordExpired_psf_delete_psf">PasswordExpired.psf_delete.psf</File>
+    <File Build="0" ReferenceFunction="Show-BenutzerManager_psf_2">Sonstiges\BenutzerManager.psf</File>
+    <File Build="0" ReferenceFunction="Show-SID-Finder_psf">SID-Finder.psf</File>
+    <File Build="1">.gitignore</File>
+  </Files>
+</Project>
